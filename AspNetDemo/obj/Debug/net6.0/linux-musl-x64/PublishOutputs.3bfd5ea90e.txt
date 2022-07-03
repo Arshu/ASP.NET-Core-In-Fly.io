@@ -1,0 +1,4 @@
+C:\Work\Publish\github\ASP.NET-Core-In-Fly.io\linux64_musl\appsettings.Development.json
+C:\Work\Publish\github\ASP.NET-Core-In-Fly.io\linux64_musl\appsettings.json
+C:\Work\Publish\github\ASP.NET-Core-In-Fly.io\linux64_musl\AspNetDemo.pdb
+C:\Work\Publish\github\ASP.NET-Core-In-Fly.io\linux64_musl\AspNetDemo
