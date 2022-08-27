@@ -1,6 +1,6 @@
 # ASP.NET Core In Fly.io
 
-Publishing a ASP.NET Core App in Fly.io. <a href="https://aspnet.fly.dev">aspnet.fly.dev</a>
+Publishing a ASP.NET Core App in Fly.io.
 
 Note: I discovered this while working (work in progress) on a more complex declarative web app framework using html/json which i am using fly.io to deploy readonly <a href="https://guiapp.fly.dev">guiapp<a> app 
 
