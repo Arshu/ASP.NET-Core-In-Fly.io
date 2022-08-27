@@ -57,7 +57,7 @@ Step 6 - Deploy AspNetDemo app to fly.io
 Deploy the AspNetDemo app to fly.io using below commands. Ensure that the commands are run in the directory where the docker image exists
 
 ```
-    fly launch
+    flyctl launch
 ```
 
 Enter the AppName : aspnet
@@ -73,7 +73,5 @@ Verify the deployment by opening the browser and entering the following url in t
 ```
     appname.fly.dev
 ```
-
-For the example app is deployed in <a href="https://aspnet.fly.dev">aspnet.fly.dev</a>
 
 
