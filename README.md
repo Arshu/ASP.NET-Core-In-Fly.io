@@ -27,7 +27,7 @@ The above setting will reduce the memory used by Asp.NET core so that the app ca
 
 # Step 3 - Publish the Asp.Net Core Project
 
-Move to the Asp.Net Core Project Direcotry and run the following publish command to generate a 
+Move to the Asp.Net Core Project Directory and run the following publish command to generate a 
 
 ```
     dotnet publish -r linux-musl-x64 --output "..\linux64_musl" --self-contained true -p:PublishSingleFile=true -p:PublishTrimmed=true
