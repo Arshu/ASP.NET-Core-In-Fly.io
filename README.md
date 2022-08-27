@@ -2,7 +2,7 @@
 
 Publishing a ASP.NET Core App in Fly.io.
 
-Note: I discovered this while working (work in progress) on a more complex declarative web app framework using html/json which i am using fly.io to deploy <a href="https://guiapp.fly.dev">guiapp<a> app 
+Note: I discovered this while working (work in progress) on a more complex declarative web app framework using html/json which i am using fly.io to deploy <a href="https://guiapp.fly.dev">guiapp<a> app for publishing static data webapps in Git Repositories
 
 Note : Docker is not required and hence can be done in Windows under Parallels in macos for those who don't have nested virtualization enabled/not available.
 
