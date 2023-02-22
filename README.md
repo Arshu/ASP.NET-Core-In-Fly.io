@@ -60,7 +60,7 @@ Deploy the AspNetDemo app to fly.io using below commands. Ensure that the comman
     flyctl launch
 ```
 
-Enter the AppName : aspnet
+Enter the AppName : aspnet1
     
 Select the Organization : Personal
     
@@ -71,7 +71,7 @@ Step 7 - Verify the deployment
 Verify the deployment by opening the browser and entering the following url in the following format
 
 ```
-    appname.fly.dev
+    https://aspnet1.fly.dev
 ```
 
 
