@@ -12,7 +12,7 @@
       }
     ],
     "configProperties": {
-      "System.GC.Server": true,
+      "System.GC.Server": false,
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false
     }
   }

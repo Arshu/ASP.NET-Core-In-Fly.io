@@ -24,3 +24,8 @@ C:\Work\Publish\github\ASP.NET-Core-In-Fly.io\AspNetDemo\obj\Debug\net6.0\refint
 C:\Work\Publish\github\ASP.NET-Core-In-Fly.io\AspNetDemo\obj\Debug\net6.0\AspNetDemo.pdb
 C:\Work\Publish\github\ASP.NET-Core-In-Fly.io\AspNetDemo\obj\Debug\net6.0\AspNetDemo.genruntimeconfig.cache
 C:\Work\Publish\github\ASP.NET-Core-In-Fly.io\AspNetDemo\obj\Debug\net6.0\ref\AspNetDemo.dll
+C:\Work\Publish\github\ASP.NET-Core-In-Fly.io\AspNetDemo\obj\Debug\net6.0\staticwebassets\msbuild.AspNetDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Work\Publish\github\ASP.NET-Core-In-Fly.io\AspNetDemo\obj\Debug\net6.0\staticwebassets\msbuild.build.AspNetDemo.props
+C:\Work\Publish\github\ASP.NET-Core-In-Fly.io\AspNetDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AspNetDemo.props
+C:\Work\Publish\github\ASP.NET-Core-In-Fly.io\AspNetDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AspNetDemo.props
+C:\Work\Publish\github\ASP.NET-Core-In-Fly.io\AspNetDemo\obj\Debug\net6.0\staticwebassets.pack.json
